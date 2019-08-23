@@ -1,0 +1,64 @@
+.navbar-text{
+    font-size: 30px;
+
+}
+.container{
+    background-color: grey;
+    height: 400px;
+    width: 960px;
+    margin-top: 20px;
+}
+.navbar{
+    padding-left: 240px;
+    padding-right: 240px;
+}
+.bertimg{
+width: 100%;
+size: auto;
+}
+.abouttext{
+    font-size: 24
+}
+.footer{
+    height:50px;
+    background: lightgray;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+.copyright{
+    text-align:center;
+    padding-top: 10px;
+}
+.hangman{
+    height: 140px;
+    width: 50px;
+    background-color: black;
+}
+.trivia{
+    height: 140px;
+    width: 50px;
+    background-color: black;
+}
+.widget{
+    height: 140px;
+    width: 50px;
+    background-color: black;
+}
+.rpg{
+    height: 140px;
+    width: 50px;
+    background-color: black;
+}
+.containerproj{
+    margin: 10px;
+}
+.inbetween{
+    padding: 5px;
+}
+.rowMargin {
+    margin-top: 20px;
+}
+.oddmanout{
+    height: 600px;
+}

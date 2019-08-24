@@ -31,24 +31,33 @@ size: auto;
     padding-top: 10px;
 }
 .hangman{
-    height: 140px;
+    height: 200px;
     width: 50px;
     background-color: black;
+    background-image: url("../images/hangman.png");
 }
 .trivia{
-    height: 140px;
+    height: 200px;
     width: 50px;
     background-color: black;
+    background-image: url("../images/trivia.jpeg");
+    color: white;
+
 }
 .widget{
-    height: 140px;
+    height: 200px;
     width: 50px;
     background-color: black;
+    background-image: url("../images/RIW.jpeg");
+    color: white;
+
 }
 .rpg{
-    height: 140px;
+    height: 200px;
     width: 50px;
     background-color: black;
+    background-image: url("../images/rpg.jpeg");
+
 }
 .containerproj{
     margin: 10px;
